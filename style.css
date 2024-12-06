@@ -1,0 +1,55 @@
+body {
+    font-family: 'Arial', sans-serif; /* Default font for the website */
+    background-color: black; /* Background color */
+    color: white; /* Default text color */
+    margin: 0;
+    padding: 0;
+  }
+
+  /* Headings */
+  h1 {
+    font-family: 'Arial', sans-serif;; /* Different font for headings */
+    color: rgb(224, 149, 135); /* Light blue text color */
+    text-align: left;
+    margin-top: 5px;
+  }
+  
+  /* Paragraphs */
+  p {
+    color: rgb(255, 253, 253); /* Gray text color for paragraphs */
+    line-height: 1;
+    text-align: left;
+    margin: 5px 5px;
+  }
+  
+  /* Links */
+  a {
+    color: rgb(255, 254, 252);
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+    color: rgb(163, 82, 41);
+    filter: blur(2px)
+  }
+
+  footer {
+    font-family: 'Arial', sans-serif;; /* Different font for headings */
+    color: rgb(224, 149, 135); 
+    text-align: center;
+    margin-top: 5px;
+  }
+
+  canvas {
+    margin: auto;
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); /* Center the canvas */
+    background-color: black;
+  }
+
+
+  

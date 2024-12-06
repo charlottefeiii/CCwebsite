@@ -1,0 +1,12 @@
+My partner Claire used below description for her lost object" I lost a bracelet my best friend Naomi gifted me for my birthday last year. I lost it at Ocean Beach in San Francisco. It was a beaded bracelet with silver metal hardware and a lobster clasp closure. The beads were alternating light pink stars, white bunny heads, and translucent light green leaves. These were attached together by silver jump rings. I was sad because I really loved the bracelet and I lost it within a month of getting it"
+
+This exercise was a great introduction to a new coding language, and highlighted how various 2D Primitive shapes can be combined to form intricate visuals. 
+
+One key learning was how to manually position elements on the canvas to create a balanced design. By working within the constraints of limited functions, I had to think creatively about how to draw repeated patterns like the bracelet beads. This pushed me to focus on clarity, position and precision, as each element was drawn individually rather than through a repetitive structure. 
+
+With this being said, it would be much more efficient if any loop structure is used. Manually repeating the drawing process for each bead was tedious. While this helped me understand the underlying mechanics of drawing each element, it also made me appreciate the value of loops and functions in reducing repetitive tasks. Going forward, I see the importance of finding a balance between clarity and efficiency in code.
+
+Balancing the visual aesthetics of the object with the functional aspects of the code was another key element of the exercise. I had to consider both how the scene looked (e.g., making the bracelet visually appealing) and how efficiently the code executed that design. I made various simplification, for instance, the opening of the bracelet is supposed to be lobster shape, however, it is hard to achieve its lobster shape detail with the time we have, so I decided to use a red oval shape to represent that.
+
+This experience has shown me the basics of ps.j5, especially in terms of optimizing my code for clarity and readability. In future projects, I look forward to explore more advanced features, and incorporate animation or user interaction to add depth to visual designs.
+

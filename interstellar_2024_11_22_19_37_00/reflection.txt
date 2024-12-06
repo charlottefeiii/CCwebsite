@@ -1,0 +1,9 @@
+For this project, I wanted to create an illusion of space travel! Growing up watching star wars, I loved all the visuals the filmmakers used in the movies, so I decided to make my own version of it.
+
+The for loops were very helpful and efficient in this exercise, and I really enjoyed how many cool visions they could create with just few lines of codes. The repetitive nature of them makes them a natural fit for animation, allowing complex, dynamic visuals to emerge from simple, repeated actions.
+
+I also wanted to make sure that the color scheme remains soft and dreamy, so I used a dynamic code to fill the color. I had to play around for quite a long time to find this blue and pink combo that I liked.
+
+Overall, this assignment was fun and I really appreciated how loops are able to efficiently generate visual effects that would otherwise be tedious to implement individually.
+
+

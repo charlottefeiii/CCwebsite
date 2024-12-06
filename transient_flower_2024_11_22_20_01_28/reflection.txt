@@ -1,0 +1,25 @@
+Description: 
+
+My experimental clock draws inspiration from the transient beauty of flowers. The canvas begins with a fully bloomed flower, and a petal falls every 3 seconds, symbolizing the passing of a day. The flower's complete cycle—from full bloom to the loss of all petals—represents a week's passage. 
+
+Building this flower animation was a fun and creative challenge that brought together different programming concepts and visual elements, with highlights on if statements and manipulation of time.
+
+Concept Development: 
+
+I came up with 3 initial designs concepts: a climate clock represented by trees, a eyebrow clock, then this flower clock. I ultimately chose this one as I like the  potential of aesthetics for this one the best. 
+
+Process: 
+
+The first step was to break down the animation into smaller parts. The core structure involved creating the petals, positioning them slightly above the center, then controlling the timing of each petal’s fall. At the same time, the petals needed to fall smoothly and remain visible on the canvas as they dropped.
+
+One of the interesting challenges was managing the fall timing, ensuring that each petal fell in sequence at a fixed interval. This require `millis()` to measure time between petal drops. 
+
+I also experimented with different colors for the garden fence backdrop for the flower and texts on it “nothing is ever eternal” then gave the petals a soft, natural look.
+
+Another major challenges was using the reset function. It was essential that once all petals had fallen, the program would reset the flower and allow the animation to loop continuously. This required tracking when the last petal moved off-screen and triggering a reset of all petals to their initial positions. This was a key learning point in managing animations over time and resetting states dynamically.
+
+Overall Reflection
+
+This project was interesting in combining both artistic/poetic elements with programming logic. Managing the sequential flow of the petals introduced a sense of timing and rhythm in the sketch. 
+
+It reinforced the importance of breaking down problems, and experimenting with different approaches to make it more efficient and visually appealing. The dynamic nature of the project, where the petals continuously fall and reset, also reminded me of the beauty of simplicity in coding — how few line of codes could create loops of elegent motions.

@@ -1,0 +1,13 @@
+For this data portrait, I decided to track a personal habit: daily walking habits. I used my iphone Health app to understand the steps I took during the day and night across an entire week. To make the visualization playful and easy to engage with, I used emoji representations: 🌞 for daytime steps, 🌙 for afternoon-nighttime steps, and 👣 to represent the number of steps per 1000 taken. Additionally, whimsical floating emojis (🌸, 🦋, ⭐, etc.) appear interactively when the user clicks the canvas, adding a bit of fun to the experience.
+
+I started by brainstorming different personal habits to track then landed on using my walking habits because walking is a daily activity that I engage with both consciously ( going to classes) and unconsciously (evening walks or spontaneous walks).
+I started by creqating a grid where each day of the week is represented by a row, then assigned static pastel colors to each row to create a calming aesthetic.I then used loops to draw step emojis (👣) for better control over their placement.
+To add interactivity, I added floating emojis that appear randomly on clicks to reflect the spontaneity of things I encounter during walks.
+
+The visualization allowed me to see patterns at a glance that would have been hard to recognize just by looking at raw numbers. The emojis, colors, and playful interactivity made the data feel more approachable and fun, which encouraged me to engage more with it.
+By breaking the day into daytime and nighttime sections, I gained insights into how my movement varies throughout the day, and how it is influenced by class schedules. 
+
+Some nuances of the data—like the reasons behind certain spikes in activity—are lost in the simplified emoji representation. For example, an unexpectedly high number of nighttime steps might reflect different reasons (going out with friends) that aren't captured in the visualization.
+Accuracy was also lost to an extent, as the emojis represent steps in rough increments (1 emoji per 1000 steps), meaning smaller variations in activity aren’t visualized.
+
+Overall, this assignment helped me understand the power of data visualization through making it engaging. It was a reminder that data is not just numbers — it’s a reflection of activities, states, and matters.

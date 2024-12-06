@@ -1,0 +1,11 @@
+In this exercise, I wanted to create an interactive animal face with a plastic pollution element.
+
+The sketch features a frog whose eyes follow a plastic bottle (the cursor). The frog appears happy when the bottle moves away from her and unhappy when cursor moves closer. When users click on the screen, a piece of plastic is left behind, symbolizing the non-biodegradable nature of plastics. I also intentionally randomized the color of the small plastic to represent the variety of "flashy" plastic items we have. Additionally, hearts in the background and canvas background color represent the frog's mood, hearts changing from red to black as the cursor moves closer to the center, indicating the frog's unhappiness when facing plastics.
+
+The most challenging part of this project was coding the pupil movement. I referenced various online resources for this. I have also noticed that the manipulation of mouse positions could impact the sketch in so many interesting ways, and I particularly love the color changing aspect of it.
+
+Another helpful discovery was using the definition "distanceFromCenter = dist(mouseX, mouseY, 200, 200)," which is an excellent tool for creating cursor location based animations.
+
+I really enjoyed creating this project, though some parts remain slightly unfinished. For instance, the frog's mouth movement from happy to unhappy needs additional edits; currently, the curve representing the expression is fully closed, but ideally, it should be half-closed. 
+
+Overall, this project was very fun!

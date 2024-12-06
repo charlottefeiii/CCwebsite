@@ -1,0 +1,9 @@
+"ARRIVAL" is a game I created that imagines the future of an alien encounter. The player takes on the role of a curious girl (would be me if this happens...) who attempts to make peace by physically meeting the alien robot and jellyfish.
+
+The game has 6 scenes, with each round lasting 1.5 minutes. The player earns 1 point for making contact with the alien robot or jellyfish. However, if the girl hits a bomb, 1 point is deducted, though the score will always remain above 0.
+
+If the player accumulates 10 points within the playtime, they win the game and a dialogue begins between the girl and the aliens. If the player does not reach 10 points, they lose.
+
+The graphics and music for the game were sourced and credited at the bottom of the code. While I enjoyed creating the game, I had to change the original concept halfway through development. It was a great way to apply concepts learned that semester, though I did face some challenges with the collision detection and certain functions.
+
+Overall, it was a great experience. I also never realized how important background music and sound effects are for a game! They truly bring a game to life. 

@@ -1,0 +1,17 @@
+My teammates for this project are Amy Zhang and Kevin Qiu. 
+
+Amy's sketch is Jerrry the cow chimera with human torso and snake body. He was abandoned in a lab but adopted by a farmer and now they are living a happy life together!
+
+Kevin's sketch was a horse who went to the mountain and tried to meditate into a saint. He got the booty from lifting.
+
+My original sketch depicts a minimalist baby robot called Allen. He is born in the year of 2050 and he is working at the front desk in space travel rocket station. 
+
+Based on the new sketch, he is now a more advanced robot, who happens... to have a booty...and loves showing off. He now has the ability to travel freely in space. His fingers help guide traffic and his tail is built for flexible and easy transportaion and space landing. 
+
+In the creation of the Allen the robot, the use of functions and parameters was very helpful in organizing the code and making it modular, reusable, and flexible. I started by drawing 3 parts of the robot and incorporating interactive elements like sound effects triggered by key presses. Breaking the code into smaller, well-defined functions was essential for managing complexity and ensuring that each piece of the robot could be created and controlled independently.
+
+In this robot code, functions like drawRobotHead(), drawLowerBody(), and drawUpperBody() each includes specific tasks of drawing the robot's body part. By isolating these tasks into functions, the code becomes easier to read and maintain. If I need to modify the design of a specific body part, I can do so without affecting other parts of the code. 
+
+Parameters also made functions more flexible and powerful. For example, in the drawRobotHead(x, y, w, h) function, the parameters x, y, w, and h control the position and size of the robot's head. By using parameters, the function is not tied to a specific location or size. If I want to draw the head in a different spot or with different dimensions, I just need to provide different values for these parameters. 
+
+Functions and parameters really helped with customization and variability in coding. I think these concepts will be important in the future as well to write efficient and scalable code.
